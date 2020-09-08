@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin:0;
+    background-color: orange;
+    font-family: 'Playfair Display', serif;
+}
+header{
+    background-image: url(../img/detox-cure-smoothie.jpg);
+
+}
+
+h1{
+    color: white;
+}
