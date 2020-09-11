@@ -10,17 +10,25 @@ header{
     background-position: center;
     background-size:1060px 530px;
 }
-.main-nav {
-    color: aliceblue;
-    display: flex;
-    text-align: right;
-}
+
 h1{
     font-size: 60px;
     text-align: center;
     color: aliceblue;
     padding: 20px;
 }
-#p1{
-    bottom: 10px;
+
+.p1{
+    padding-bottom: 15px;
+    text-align: center;
+    color: aliceblue;
+}
+
+.nav{
+    text-align: right;
+    color: aliceblue;
+}
+
+.nav a{
+    color: aliceblue;
 }
